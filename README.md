@@ -37,7 +37,8 @@ Kullanıcı adı oluşturucu, belirli kurallar ve yapılandırmalar ile benzersi
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa]([./screenshots/homepage.jpg])
+![Ana Sayfa](https://i.hizliresim.com/r55vhi4.jpg)
+
 
 ## Destek
 
