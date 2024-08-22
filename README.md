@@ -13,6 +13,13 @@
 - **Kolay Kullanım:** Kullanıcı dostu arayüzü ile hızlı ve kolay bir şekilde benzersiz kullanıcı adları oluşturun.
 - **Özelleştirilebilir:** İhtiyacınıza göre çeşitli ayarları değiştirebilirsiniz.
 - **Hafif:** Performans odaklı, hızlı çalışan bir PHP script.
+- **Random Oluşturucu:** Oluştur Butonuyla Random Nickname'ler oluşturabilirsiniz.
+- **Semboller:** Oluşturduğunuz NickName'lere kolayca sembol seçimi yaparak ekleyebilirsiniz.
+- **Öneri:** Öneri Butonuyla istediğiniz kadar yeni nickname ekleyebilir ve diğer kullanıcılara yardımcı olabilirsiniz.
+- **Hızlı Kopyalama:** Oluşturduğunuz NickName'leri Kopyala butonuyla hızlıca kopyalayabilirsiniz.
+- **Reklamlar:** Kod içerisindeki alanlara reklam ekleyebilir ve kazanç elde edebilirsiniz.
+- **İletişim:** İletişim formu sayesinde kullanıcılar sizinle kolayca iletişime geçebilirler.
+- **Blog:** Çeşitli makaleler yazarak sitenize daha fazla kullanıcı çekebilirsiniz.
 
 ## Kurulum
 
@@ -28,9 +35,22 @@
 
 Kullanıcı adı oluşturucu, belirli kurallar ve yapılandırmalar ile benzersiz kullanıcı adları üretir. Arayüzde yer alan seçenekleri kullanarak, oluşturma sürecini kontrol edebilirsiniz.
 
+## Ekran Görüntüleri
+
+![Ana Sayfa]([./screenshots/homepage.png](https://i.hizliresim.com/r55vhi4.jpg))
+
 ## Destek
 
 Herhangi bir sorunla karşılaşırsanız veya öneride bulunmak isterseniz, [@mebularts](https://t.me/mebularts) ile iletişime geçebilirsiniz.
+
+## Demo
+
+Canlı demoyu görmek için [Yakında!](#).
+
+## Sürüm Notları
+
+- **v1.0.0:** İlk sürüm. Temel kullanıcı adı oluşturma özellikleri ve hızlı kopyalama.
+- **v1.1.0:** Yeni tema seçenekleri ve SEO optimizasyonu eklendi.
 
 ## Lisans
 
