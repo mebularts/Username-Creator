@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mehmet Bulat",
+        "email": "mehmetbulat498@gmail.com",
+        "message": "Merhaba",
+        "timestamp": "2024-08-22T15:56:38+02:00"
+    },
+    {
+        "name": "Mehmet Bulat",
+        "email": "mehmetbulat498@gmail.com",
+        "message": "Merhaba 2",
+        "timestamp": "2024-08-22T15:56:53+02:00"
+    },
+    {
+        "name": "Mehmet Bulat",
+        "email": "mehmetbulat498@gmail.com",
+        "message": "Test 3",
+        "timestamp": "2024-08-22T16:03:03+02:00"
+    },
+    {
+        "name": "Mehmet Bulat",
+        "email": "mehmetbulat498@gmail.com",
+        "message": "test 4",
+        "timestamp": "2024-08-22T16:04:07+02:00"
+    },
+    {
+        "name": "Mehmet Bulat",
+        "email": "mehmetbulat498@gmail.com",
+        "message": "test 4",
+        "timestamp": "2024-08-22T16:04:52+02:00"
+    }
+]

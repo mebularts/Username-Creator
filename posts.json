@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "title": "ISO Sonunda Nerflendi",
+            "image": "assets/images/post1.jpg",
+            "excerpt": "Riot Games, Valorant güncellemesi 9.00 için yama notlarını yayınladı ve haftalardır oyundaki en iyi ajan olan Iso, sonunda büyük bir zayıflatma alıyor.",
+            "link": "blog-post1.php"
+        },
+        {
+            "title": "Deadpool X Wolverine Fortnite'da",
+            "image": "assets/images/post2.jpg",
+            "excerpt": "Sızdırılan Deadpool ve Wolverine'in Fortnite'a ekleneceği ve tüm kostüm ve eşyaların nasıl elde edileceğinin anlatıldığı bir videomuz var.",
+            "link": "blog-post2.php"
+        }
+    ]
+}

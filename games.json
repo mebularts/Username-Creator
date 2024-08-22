@@ -1,0 +1,19 @@
+{
+    "games": {
+        "Fortnite": [
+            "GamerPro",
+            "NinjaWarrior",
+            "ShadowHunter"
+        ],
+        "PUBG": [
+            "SniperKing",
+            "BattleRoyale",
+            "SurvivorMaster"
+        ],
+        "Valorant": [
+            "ViperStrike",
+            "PhantomAce",
+            "RazeBlaze"
+        ]
+    }
+}
