@@ -37,7 +37,7 @@ Kullanıcı adı oluşturucu, belirli kurallar ve yapılandırmalar ile benzersi
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa]([./screenshots/homepage.png](https://i.hizliresim.com/r55vhi4.jpg))
+![Ana Sayfa]([./screenshots/homepage.jpg])
 
 ## Destek
 
@@ -50,7 +50,6 @@ Canlı demoyu görmek için [Yakında!](#).
 ## Sürüm Notları
 
 - **v1.0.0:** İlk sürüm. Temel kullanıcı adı oluşturma özellikleri ve hızlı kopyalama.
-- **v1.1.0:** Yeni tema seçenekleri ve SEO optimizasyonu eklendi.
 
 ## Lisans
 
